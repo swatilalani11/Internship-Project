@@ -1,4 +1,4 @@
-# Internship-Project
+# Internship-Tasks
 
 Task1 - Download Stock Data and Save as CSV: 
 Steps : Takes stock symbol, date range and timeframe → downloads data from Yahoo Finance → cleans/resamples it → saves final data into a CSV file.
